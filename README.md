@@ -1,4 +1,4 @@
-# saraha APP_API
+# saraha APP-API
 Saraha App API - project with Express JS framework 
 
 # Usage
